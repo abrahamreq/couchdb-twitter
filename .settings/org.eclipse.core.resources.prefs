@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//couchdb/client.py=utf-8
+encoding//couchdb/design.py=utf-8
+encoding//couchdb/http.py=utf-8
+encoding//couchdb/tests/design.py=utf-8
+encoding//couchdb/view.py=utf-8
+encoding/queryTweets.py=utf-8
+encoding/saveTweets.py=UTF-8
+encoding/tweetStore.py=UTF-8
